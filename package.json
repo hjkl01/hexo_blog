@@ -13,7 +13,7 @@
   },
   "dependencies": {
     "bulma-stylus": "0.8.0",
-    "gh-pages": "^3.2.3",
+    "gh-pages": "^4.0.0",
     "hexo": "^5.0.0",
     "hexo-admin": "^2.3.0",
     "hexo-auto-category": "^0.2.1",
